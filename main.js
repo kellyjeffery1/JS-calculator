@@ -1,4 +1,4 @@
-function calculate() {
+function calc() {
   const a = parseInt(document.querrySelector('#value1').value);
   const b = parseInt(document.querrySelector('#value2').value);
   const op = document.querrySelector('#operator').value;
